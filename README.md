@@ -1,5 +1,15 @@
-# Hello, Summer of Tech!
+#My webpage hosted on github
 
-This is an example page for the Summer of Tech git tutorial.
+##Purpose
+* Display cuurent and past projects
+* Some information about myself
+* Experimentation with website design
 
-Feel free to fork and modify it as you see fit.
+##Master Branch
+* Website that can be viewed at [laserflash.github.io](http://laserflash.github.io)
+* Version for stable and full viewing
+
+##Development Branch
+* Trying new styles and layouts
+* Following material guidlines / approach 
+
