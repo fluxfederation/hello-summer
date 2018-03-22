@@ -10,6 +10,10 @@ body {
   color: #fff;
 }
 
+p {
+	font-family: "helvetica";
+}
+
 a {
   color: #00aeef;
   text-decoration: none;
